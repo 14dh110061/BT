@@ -1,0 +1,4 @@
+D:\LapTrinhMang\14dh110061\Bai1\bin\Debug\Bai1.exe
+D:\LapTrinhMang\14dh110061\Bai1\bin\Debug\Bai1.pdb
+D:\LapTrinhMang\14dh110061\Bai1\obj\x86\Debug\Bai1.exe
+D:\LapTrinhMang\14dh110061\Bai1\obj\x86\Debug\Bai1.pdb
